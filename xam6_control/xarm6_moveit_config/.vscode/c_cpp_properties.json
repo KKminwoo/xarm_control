@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/minwoo/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/minwoo/catkin_ws/src/calvis/find_object_2d/include/**",
+        "/home/minwoo/catkin_ws/src/ros_gluon/gluon_control/include/**",
+        "/home/minwoo/catkin_ws/src/watt/teraranger_array/include/**",
+        "/home/minwoo/catkin_ws/src/calvis/xarm6_control/xarm_api/include/**",
+        "/home/minwoo/catkin_ws/src/calvis/xarm6_control/xarm_controller/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
