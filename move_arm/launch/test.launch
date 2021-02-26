@@ -1,0 +1,9 @@
+<launch> 
+  <node name="turtle_teleop_key_node" pkg="turtlesim" type="turtle_teleop_key" output="screen" />
+
+
+  <machine name = "xps9310" address="192.168.10.103" user="watt" timeout="10" password="9090" env-loader="/home/watt/catkin_ws/devel/env.sh" default="true" />
+  <!-- <node name="turtlesim_node" pkg="turtlesim"  type="turtlesim_node" respawn="true" /> -->
+  <!-- <node name="turtle_teleop_key_node_2" pkg="turtlesim" type="turtle_teleop_key" output="screen" /> -->
+
+</launch>
