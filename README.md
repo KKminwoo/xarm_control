@@ -30,11 +30,12 @@
 
 - 컴퓨터 이더넷 네트워크(ip 주소를 192.168.1.208과 다르게 해줘야 함)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de44a21b-ce41-4fd3-9ae2-4af76ac77007/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de44a21b-ce41-4fd3-9ae2-4af76ac77007/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/47807421/133399092-91f4a050-cf4d-41f6-83d2-91b741e1d1cc.png)
+
 
 ### moveit! 동작 확인
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e25f6e4d-189d-4c0b-869b-35382a54c3b3/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e25f6e4d-189d-4c0b-869b-35382a54c3b3/Untitled.png)
+![Untitled (1)](https://user-images.githubusercontent.com/47807421/133399417-83b82740-6162-4be9-a8e0-071b69e85d3f.png)
 
 ### launch 실행
 
